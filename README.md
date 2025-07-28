@@ -6,7 +6,7 @@
 
 ### Profile Overview
 
-* All my projects are available on my GitHub.
+* All my personal projects are available on my GitHub.
 * How to reach me: [ndhuy.work@gmail.com](mailto:ndhuy.work@gmail.com)
 * I'm continuously enhancing my proficiency in **Next.js, React.js, Vue.js, Angular** and related technologies to build high-performance, scalable web applications.
 
